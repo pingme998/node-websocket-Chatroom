@@ -4,8 +4,8 @@
     "description": "a chat room app by socket.io",
     "main": "app.js",
     "dependencies": {
-        "express": "^4.15.3",
-        "socket.io": "^2.0.1"
+        "express": "5.x",
+        "socket.io": "3.x"
     },
     "devDependencies": {},
     "scripts": {
